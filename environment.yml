@@ -1,1 +1,16 @@
 dependencies:
+  - python = 3
+  - pip:
+    - spacy
+    - scipy
+    - numpy
+    - matplotlib
+    - pandas
+    - thic
+    - tqdm
+    - sklearn
+    - Pillow
+    - xgboost
+    - sympy
+    - requests
+    - lightgbm
